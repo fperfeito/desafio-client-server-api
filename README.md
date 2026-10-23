@@ -11,4 +11,3 @@ Instruções de como rodar ambos os serviços:
     go run ./server
 4 - Terminal 2 — executar o cliente
     go run ./client
-5 - 
